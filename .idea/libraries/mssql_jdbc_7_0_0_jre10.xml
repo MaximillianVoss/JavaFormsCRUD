@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-7.0.0.jre10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mssql-jdbc-6.2.2.jre8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mssql-jdbc-6.2.2.jre7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xchart-3.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
